@@ -1,1 +1,1 @@
-console.log("hello w0rld")
+console.log("hello world")
